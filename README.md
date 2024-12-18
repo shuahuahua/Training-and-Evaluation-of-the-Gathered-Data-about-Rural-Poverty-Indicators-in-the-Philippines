@@ -36,7 +36,7 @@ To run the analysis locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Giyanellow/Time-Series-Analysis-on-Philippine-Debt-and-Inflation
+   git clone https://github.com/shuahuahua/Training-and-Evaluation-of-the-Gathered-Data-about-Rural-Poverty-Indicators-in-the-Philippines.git
    ```
 2. Move to main folder
    ```bash
@@ -53,3 +53,7 @@ To run the analysis locally, follow these steps:
 This project concludes that meaningful relationships exist between key poverty indicators and income dynamics within the rural economy of the Philippines. The Linear Regression model effectively captures linear trends, such as the correlation between agricultural wage rates and total income, while the Decision Tree Model excels in identifying categorical influences and critical decision points.
 
 The findings emphasize the Decision Tree Model's superior performance in certain scenarios, particularly in highlighting key factors influencing rural income disparities. The study lays the groundwork for evidence-based policymaking, underscoring the need for targeted interventions to uplift farm households and improve rural economic conditions. Further research with larger datasets and advanced modeling techniques can refine these insights and drive more impactful solutions. 
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
