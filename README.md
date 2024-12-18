@@ -6,6 +6,7 @@
 - [Tools and Libraries](#tools-and-libraries)
 - [Installation](#installation)
 - [Conclusion](#conclusion)
+- [License](#license)
 
 ## IMPORTANT
 Do take into account that this Analysis is not a direct and accurate Analysis on the Philippines' economic state. Moreover, predictions in this analysis is not to be considered as accurate. This project is only a showcase of Data Analysis and basic Machine Learning prediction knowledge.
@@ -40,7 +41,7 @@ To run the analysis locally, follow these steps:
    ```
 2. Move to main folder
    ```bash
-   cd Time-Series-Analysis-on-Philippine-Debt-and-Inflation
+   cd Training-and-Evaluation-of-the-Gathered-Data-about-Rural-Poverty-Indicators-in-the-Philippines
    ```
    
 3. Run bash.sh
